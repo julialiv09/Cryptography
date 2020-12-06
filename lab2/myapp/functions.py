@@ -6,7 +6,7 @@ userdata = {
   "users_list": [
       {
           "login": "yulia",
-          "e-mail": "randomemailkek1@mail.ru",
+          "e-mail": "J_u_l_i_a_0908@mail.ru",
           "password": "some_password",
           "code": "4242"
       }
