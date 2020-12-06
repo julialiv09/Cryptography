@@ -19,10 +19,6 @@ json_file.close()
 
 
 def find_user(login, password):
-    # json_file = json.load(open("userdata.json", "w"))
-    # json.dump(userdata, json_file)
-    # json_file.close()
-
     userdata = json.load(open("userdata.json", "r"))
     if userdata["users_list"][0]["login"] == login:
         if userdata["users_list"][0]["password"] == password:
